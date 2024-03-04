@@ -1,0 +1,5 @@
+<testExecutions version="1">
+<file path="src/app.controller.spec.ts">
+<testCase name="AppController root should return &quot;Hello World!&quot;" duration="9" />
+</file>
+</testExecutions>
